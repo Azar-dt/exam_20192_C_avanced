@@ -1,0 +1,6 @@
+5
+https://www.hust.edu.vn/gioi-thieu A
+https://www.hust.edu.vn/thong-diep-cua-hieu-truong B
+https://www.hust.edu.vn/thong-tin-tuyen-sinh C
+https://www.hust.edu.vn/tuyen-sinh-nghien-cuu-sinh D
+http://www.yourdomain.it/test.htm E
